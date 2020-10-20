@@ -1,0 +1,16 @@
+import sys
+
+Tuple = (1,2,3,4,5,1,2,3,4,5)
+List = [1,2,3,4,5,1,2,3,4,5]
+
+print("Tuple",sys.getsizeof(Tuple))
+print("List",sys.getsizeof(List))
+
+print(Tuple)
+print(List)
+
+
+
+
+
+
